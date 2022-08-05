@@ -8,7 +8,6 @@
 - Remove this block once complete.
 ```
 
-This repository serves as a general template for new repositories at [Pilbrow and Partners](https://github.com/pilbrowandpartners), once created alter content as required. In place of this paragraph, add a description about what this project aims to achieve.
 
 ## Sample Output
 If sample output is applicable, add examples here.
