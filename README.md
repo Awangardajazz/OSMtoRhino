@@ -1,8 +1,3 @@
-<p align="center">
-	<img alt="P&P logo" src="img/logo-128px-black-atoll-circle.png" width="80px" />
-	<h1 align="center">Repo Template</h1>
-</p>
-
 ```markdown
 ## Repo Setup
 - Rename README `<h1>` heading match repository name.
